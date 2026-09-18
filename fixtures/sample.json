@@ -1,0 +1,7 @@
+{
+  "campaign_id": "river-at-my-door-2026",
+  "accepted_media": ["image", "video", "story"],
+  "minimum_video_height": 1080,
+  "channels": ["campaign-page", "newspaper", "media-matrix"],
+  "ai_generated_allowed": false
+}
