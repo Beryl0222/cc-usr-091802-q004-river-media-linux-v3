@@ -3,5 +3,6 @@
   "accepted_media": ["image", "video", "story"],
   "minimum_video_height": 1080,
   "channels": ["campaign-page", "newspaper", "media-matrix"],
-  "ai_generated_allowed": false
+  "ai_generated_allowed": false,
+  "terms_version": "terms-2026-01"
 }
